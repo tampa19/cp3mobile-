@@ -191,7 +191,7 @@ npm install
 **Meu Objetivo**: Demonstrar domínio prático dos tipos de navegação React Native  
 **Caso de Uso Escolhido**: Aplicativo educacional com navegação híbrida  
 **Período**: 2025  
-**Aluno**: Daniel
+**Aluno**: vinicius
 
 ## 📄 Licença
 
